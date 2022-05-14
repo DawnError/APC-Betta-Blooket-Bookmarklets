@@ -58,6 +58,11 @@
             BlooketFishingFrenzyHacks
         </a>
     </p>
+    <p>
+        <a href="https://dawnerror.github.io/APC-Betta-Page/">
+            APC-Betta-Page
+        </a>
+    </p>
     <h2>
         Notice:
     </h2>
