@@ -24,37 +24,47 @@
         </a>
     </p>
     <p>
-        <a href="">
+        <a href="https://dawnerror.github.io/Blooket-C-Hacks/">
             BlooketCryptoHacks
         </a>
     </p>
     <p>
-        <a href="">
+        <a href="https://dawnerror.github.io/Blooket-CA-Hacks/">
             BlooketCafeHacks
         </a>
     </p>
     <p>
-        <a href="">
+        <a href="https://dawnerror.github.io/Blooket-R-Hacks/">
             BlooketRacingHacks
         </a>
     </p>
     <p>
-        <a href="">
-            BlooketTowerOfDoomHacks
+        <a href="https://dawnerror.github.io/Blooket-TOD1-Hacks/">
+            BlooketTowerOfDoomHacks1
+        </a>
+    </p>
+        <p>
+        <a href="https://dawnerror.github.io/Blooket-TOD2-Hacks/">
+            BlooketTowerOfDoomHacks2
         </a>
     </p>
     <p>
-        <a href="">
-            BlooketCrazyKingdomHacks
+        <a href="https://dawnerror.github.io/Blooket-CK1-Hacks/">
+            BlooketCrazyKingdomHacks1
+        </a>
+    </p>
+        <p>
+        <a href="https://dawnerror.github.io/Blooket-CK2-Hacks/">
+            BlooketCrazyKingdomHacks2
         </a>
     </p>
     <p>
-        <a href="">
+        <a href="https://dawnerror.github.io/Blooket-GQ-Hacks/">
             BlooketGoldQuestHacks
         </a>
     </p>
     <p>
-        <a href="">
+        <a href="https://dawnerror.github.io/Blooket-FF-Hacks/">
             BlooketFishingFrenzyHacks
         </a>
     </p>
