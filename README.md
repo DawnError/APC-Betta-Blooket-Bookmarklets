@@ -6,6 +6,12 @@
         To use the hacks just go to the section for the specific hacks sections you want, find the hacks, drag them up to your bookmarks bar and when on the blooket page that the hacks are meant for just click the hack that you bookmarked, and your done!
     </p>
     <h2>
+        Want More Hacks For Other Learning Softwares?
+    </h2>
+    <p>
+        Let me know that you want more hacks by starring this repository on github!
+    </p>
+    <h2>
         Blooket Hacks:
     </h2>
     <p>
