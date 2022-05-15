@@ -9,8 +9,13 @@
         Blooket Hacks:
     </h2>
     <p>
-        <a href="https://dawnerror.github.io/Blooket-GS-Hacks/">
-            BlooketGlobalHacks
+        <a href="https://dawnerror.github.io/Blooket-GS1-Hacks/">
+            BlooketGlobalHacks1
+        </a>
+    </p>
+        <p>
+        <a href="https://dawnerror.github.io/Blooket-GS2-Hacks/">
+            BlooketGlobalHacks2
         </a>
     </p>
     <p>
